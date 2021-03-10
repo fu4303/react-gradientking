@@ -74,7 +74,7 @@ const Header = ({ rotate, changeMode }) => {
     <div className="header flex">
       <div className="logo flex" onClick={gotoHome}>
         <Icon />
-        <h1>Gradient King</h1>
+        <h1>Gradients Galore</h1>
       </div>
       <div className="rightBtns flex">
         <Tooltip title="Search" aria-label="add">
