@@ -10,13 +10,13 @@ const Footer = () => {
     );
   };
   const starGithub = () => {
-    window.open("https://github.com/saviomartin/gradientking");
+    window.open("https://github.com/fu4303/react-gradientking");
   };
   return (
     <div className="footer flex">
       <h3 className="footer">
         Made with 💖 by
-        <a href="https://github.com/saviomartin"> Savio Martin.</a> Thanks to
+        <a href="https://github.com/fu4303"> Alec Campbell.</a> Thanks to
         all <Link to="/contributors">Contributors.</Link>
       </h3>
       <div className="footer_buttons flex">
